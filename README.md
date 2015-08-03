@@ -1,6 +1,6 @@
 # Getting Started...
 
-To follow along, you'll need to have Rails 4.x and PostgreSQL installed. If you do NOT have these tools available, then work with a partner who has them. Please do not go through an entire installfest process.
+To follow along, you'll need to have Rails 4.x and PostgreSQL installed. If you do NOT have these tools available, then work with a partner who has them.
 
 ### 1. Clone
 
@@ -27,4 +27,4 @@ rake db:seed
 rails s
 ```
 
-Then go to `localhost:3000`.
+Then go to `localhost:3000/muppets`. Once you're up and running, take 15 minutes to review this application's Rails configuration with a partner. It should look very familiar... the existing routes, controllers, and views are structured as a boilerplate Rails CRUD application.
